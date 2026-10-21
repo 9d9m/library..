@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6ad876e945f1199b2829b4fe"
+  },
+  "name": "三体",
+  "category": "科幻",
+  "price": 85,
+  "stock": 5,
+  "score": 8.6
+}]
